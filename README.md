@@ -2,7 +2,7 @@
 
 Soy un entusiasta usuario y estudioso de tecnologías de IT. Actualmente estoy preparando certificaciones
 
-[![Estadísticas de GitHub de Daniel](https://github-readme-stats.vercel.app/api?username=danielzamo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Estadísticas de GitHub de Daniel](https://github-readme-stats.vercel.app/api?username=daniel-zamo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
 - 🔭 Actualmente estoy trabajando en... **mi proyecto increíble**.
