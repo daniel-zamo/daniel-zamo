@@ -1,4 +1,4 @@
-## ¡Hola! Soy Daniel, bienvenido a mi espacio en GitLab 👋
+### ¡Hola!, bienvenido a mi espacio en GitLab 👋
 
 Soy un entusiasta usuario y estudioso de tecnologías IT. Actualmente estoy preparando certificaciones. <!-- de [Azure](https://azure.microsoft.com/en-us/) y de [Linux Foundation](https://training.linuxfoundation.org).-->
 
@@ -9,7 +9,7 @@ Soy un entusiasta usuario y estudioso de tecnologías IT. Actualmente estoy prep
 -->
 
 <!-- ## 🎖️ Certificaciones -->
-## 📜 Mis Certificaciones y Logros
+#### 📜 Mis Certificaciones y Logros
 
 Puedes verificar la autenticidad de mis credenciales haciendo clic en cada una de las insignias.
 
@@ -31,14 +31,14 @@ _**Logros anteriores**_
 
 ---
 
-## 🔗 Conecta conmigo
+#### 🔗 Conecta conmigo
 
 - **GitLab:** [github.com/daniel-zamo](https://gitlab.com/daniel-zamo) (Mi otro espacio de código).
 - **GitHub:** Estás aquí.
 
 ---
 
-## 🛠️ Mis Herramientas y Tecnologías
+#### 🛠️ Mis Herramientas y Tecnologías
 
 Aquí tienes algunas de las tecnologías con las que me siento más cómodo trabajando:
 
@@ -48,7 +48,7 @@ Aquí tienes algunas de las tecnologías con las que me siento más cómodo trab
 
 ---
 
-## 📊 Mis Estadísticas en Github
+#### 📊 Mis Estadísticas en Github
 
 [![Estadísticas de GitHub de Daniel](https://github-readme-stats.vercel.app/api?username=daniel-zamo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
