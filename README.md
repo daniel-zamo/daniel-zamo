@@ -1,6 +1,4 @@
-### ¡Hola!, bienvenido a mi espacio en GitLab 👋
-
-Soy un entusiasta usuario y estudioso de tecnologías IT. Actualmente estoy preparando certificaciones. <!-- de [Azure](https://azure.microsoft.com/en-us/) y de [Linux Foundation](https://training.linuxfoundation.org).-->
+### ¡Hola!, bienvenido a este espacio GitHub 👋
 
 <!--
 - 🔭 Actualmente estoy trabajando en... **un proyecto de automatización en GitLab CI/CD**.
