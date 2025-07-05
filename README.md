@@ -29,9 +29,9 @@ _**Logros anteriores**_
 
 ---
 
-#### 🔗 Conecta conmigo
+#### 🔗 Mis git en cloud
 
-- **GitLab:** [github.com/daniel-zamo](https://gitlab.com/daniel-zamo) (Mi otro espacio de código).
+- **GitLab:** [github.com/daniel-zamo](https://gitlab.com/dzamo) (Mi otro espacio de código).
 - **GitHub:** Estás aquí.
 
 ---
