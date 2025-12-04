@@ -85,16 +85,11 @@ Como parte de una estrategia DevOps organizada, distribuyo mi código en dos pla
 
 ---
 
-<h3>📊 Actividad en GitHub</h3>
+### 📊 Actividad en GitHub sacala a pasear
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=daniel-zamo&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=555555&locale=es" alt="Estadísticas de Daniel Zamo" />
-  </a>
-</div>
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=daniel-zamo&show_icons=true&theme=radical)
 
-<br>
-
+---
 <div align="center">
   <small>Documentación sincronizada | Última actualización: 2025</small>
 </div>
