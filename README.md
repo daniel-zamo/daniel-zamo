@@ -85,11 +85,6 @@ Como parte de una estrategia DevOps organizada, distribuyo mi código en dos pla
 
 ---
 
-### 📊 Actividad en GitHub sacala a pasear
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=daniel-zamo&show_icons=true&theme=radical)
-
----
 <div align="center">
-  <small>Documentación sincronizada | Última actualización: 2025</small>
+  <small>Documentación sincronizada | Última actualización: 2025 - ajj</small>
 </div>
