@@ -86,5 +86,5 @@ Como parte de una estrategia DevOps organizada, distribuyo mi código en dos pla
 ---
 
 <div align="center">
-  <small>Documentación sincronizada | Última actualización: 2025 - ajj</small>
+  <small>Documentación sincronizada | Última actualización: 2025</small>
 </div>
