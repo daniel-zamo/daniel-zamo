@@ -1,84 +1,98 @@
-### ¡Hola!, bienvenido a este espacio GitHub 👋
+# Daniel Oscar Zamo
 
-<!--
-- 🔭 Actualmente estoy trabajando en... **un proyecto de automatización en GitLab CI/CD**.
-- 🌱 Estoy aprendiendo... **Kubernetes y despliegue continuo**.
-- 💬 Pregúntame sobre... **desarrollo backend, DevOps y buenas prácticas de codificación**.
--->
+### Linux System Administrator | Cloud Infrastructure & DevOps
 
-<!-- ## 🎖️ Certificaciones -->
-#### 📜 Mis Certificaciones y Logros
+📍 **Madrid, España**
 
-Puedes verificar la autenticidad de mis credenciales haciendo clic en cada una de las insignias.
+---
 
-_**Activas**_
+<div align="center">
 
-<a href="https://www.credly.com/badges/64203abd-0d3b-4f2d-bb36-4f59017bdfb4/public_url">
-  <img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Insignia de Microsoft Certified: Azure Fundamentals" width="110">
+  <!-- BOTONES DE ACCIÓN PRINCIPALES -->
+  <a href="https://dzamo.gitlab.io">
+    <img src="https://img.shields.io/badge/🌐_VISITAR_PORTFOLIO-000000?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio Web" height="35">
+  </a>
+  <a href="https://linkedin.com/in/danielzamo">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil_Profesional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35">
+  </a>
+  <a href="https://gitlab.com/dzamo">
+    <img src="https://img.shields.io/badge/GitLab-Infraestructura_&_Docs-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Profile" height="35">
+  </a>
+
+</div>
+
+---
+
+## 🚀 Perfil Profesional
+
+Ingeniero de Infraestructura con más de **15 años de experiencia** gestionando entornos Unix/Linux de misión crítica. Actualmente enfocado en la **modernización de infraestructura** (Legacy to Cloud), implementando metodologías DevOps y automatización avanzada.
+
+Este perfil de GitHub es mi espacio para **Open Source, Laboratorios Públicos y Pruebas de Concepto**.
+
+* 🔭 **Actualmente trabajando en:** Estandarización de despliegues **Ansible** y laboratorios híbridos Azure/On-Premise.
+* 🌱 **Stack Principal:** RHEL/Debian, Ansible, Azure, Docker, KVM.
+* 📜 **Certificación Clave 2025:** Linux Foundation Certified Systems Administrator (LFCS).
+
+---
+
+## 🏆 Certificaciones y Competencias
+
+<div align="center">
+
+| **Sistemas Linux (Certificación Profesional)** | **Cloud, AI & Kubernetes (Fundamentos)** |
+| :---: | :---: |
+| <a href="https://www.credly.com/badges/9ceaee4c-1060-4729-8609-a960ce7f8166/linked_in_profile" target="_blank"><img src="https://gitlab.com/dzamo/dzamo/-/raw/main/img/lfcs-badge.png" alt="LFCS Badge" width="150"></a><br>Verified by <b>The Linux Foundation</b><br>*(Expira: Nov 2027)* | <a href="https://www.credly.com/badges/96c67a80-e060-436e-9753-2b0a3a6249b0/public_url" target="_blank"><img src="https://gitlab.com/dzamo/dzamo/-/raw/main/img/k8s-fundamentals.png" alt="K8s Fundamentals" width="95"></a> <a href="https://www.credly.com/badges/64203abd-0d3b-4f2d-bb36-4f59017bdfb4/public_url" target="_blank"><img src="https://gitlab.com/dzamo/dzamo/-/raw/main/img/azure-fundamentals.png" alt="Azure Fundamentals" width="95"></a> <a href="https://www.credly.com/badges/5fa276cd-bfab-40b5-b7cf-7b0be2027e39/public_url" target="_blank"><img src="https://gitlab.com/dzamo/dzamo/-/raw/main/img/azure-ai.png" alt="Azure AI" width="95"></a><br>**Kubernetes & Microsoft Azure**<br>Competencias validadas |
+
+</div>
+
+> *Historial de excelencia técnica:* <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000408515/29l6gs4ybw" target="_blank">**LPIC-2** (Linux Network Professional)</a> y <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000408515/l25avv283p" target="_blank">**LPIC-1**</a> — Certificaciones obtenidas y validadas por el Linux Professional Institute.
+
+---
+
+## 🛠️ Stack Tecnológico & Herramientas
+
+### Infraestructura & Cloud
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![RHEL](https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=redhat&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM-Virt-orange?style=flat-square)
+
+### Automatización & DevOps
+
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+## 📂 Organización de Repositorios (GitLab vs GitHub)
+
+Como parte de una estrategia DevOps organizada, distribuyo mi código en dos plataformas:
+
+1. 🦊 **[GitLab (dzamo)](https://gitlab.com/dzamo):**
+    * Aloja mi infraestructura "Source of Truth".
+    * Código fuente del Portfolio Web (Astro/Starlight).
+    * Laboratorios privados y documentación técnica detallada (SOPs).
+
+2. 🐱 **GitHub (Estás aquí):**
+    * Repositorios públicos para colaboración comunitaria.
+    * Snippets, scripts y despliegues de referencia (Ansible/Docker) para compartir.
+
+---
+
+### 📊 Actividad en GitHub
+
+<p align="left">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-zamo&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=555" alt="Estadísticas de GitHub de Daniel" />
 </a>
+</p>
 
-_**Logros anteriores**_
-
-<a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000408515/29l6gs4ybw">
-  <img src="https://www.lpi.org/wp-content/webp-express/webp-images/uploads/2023/04/LPIC-2_0.jpg.webp" alt="Insignia de Linux Professional Institute LPIC-2" width="110">
-</a>
-<br>
-<a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000408515/l25avv283p">
-  <img src="https://www.lpi.org/wp-content/webp-express/webp-images/uploads/2023/04/LPIC-1_0.jpg.webp" alt="Insignia de Linux Professional Institute LPIC-1" width="110">
-</a>
-
----
-
-#### 🔗 Mis git en cloud
-
-- **GitLab:** [github.com/daniel-zamo](https://gitlab.com/dzamo) (Mi otro espacio de código).
-- **GitHub:** Estás aquí.
-
----
-
-#### 🛠️ Mis Herramientas y Tecnologías
-
-Aquí tienes algunas de las tecnologías con las que me siento más cómodo trabajando:
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci/)
-
----
-
-#### 📊 Mis Estadísticas en Github
-
-[![Estadísticas de GitHub de Daniel](https://github-readme-stats.vercel.app/api?username=daniel-zamo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- 
-- 🔭 Actualmente estoy trabajando en... **mi proyecto increíble**.
-- 🌱 Estoy aprendiendo... **Inteligencia Artificial con Python**.
-- 💬 Pregúntame sobre... **desarrollo web y buenas prácticas**.
-- 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/tu-perfil) | [Twitter](https://twitter.com/tu-usuario)
-
----
-
-### Mis Herramientas y Tecnologías
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
----
-
-
-
-**daniel-zamo/daniel-zamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<div align="center">
+  <small>Documentación sincronizada | Última actualización: 2025</small>
+</div>
