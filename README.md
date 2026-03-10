@@ -9,14 +9,11 @@
 <div align="center">
 
   <!-- BOTONES DE ACCIÓN PRINCIPALES -->
-  <a href="https://dzamo.gitlab.io">
-    <img src="https://img.shields.io/badge/🌐_VISITAR_PORTFOLIO-000000?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio Web" height="35">
+  <a href="https://daniel-zamo.github.io">
+    <img src="https://img.shields.io/badge/🌐_VISITAR_PORTFOLIO-000000?style=for-the-badge&logo=docusaurus&logoColor=white" alt="Portfolio Web" height="35">
   </a>
   <a href="https://linkedin.com/in/danielzamo">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil_Profesional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35">
-  </a>
-  <a href="https://gitlab.com/dzamo">
-    <img src="https://img.shields.io/badge/GitLab-Infraestructura_&_Docs-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Profile" height="35">
   </a>
 
 </div>
@@ -29,7 +26,7 @@ Ingeniero de Infraestructura con más de **15 años de experiencia** gestionando
 
 Este perfil de GitHub es mi espacio para **Open Source, Laboratorios Públicos y Pruebas de Concepto**.
 
-* 🔭 **Actualmente trabajando en:** Estandarización de despliegues **Ansible** y laboratorios híbridos Azure/On-Premise.
+* 🔭 **Actualmente trabajando en:** Estandarización de despliegues **Ansible** y laboratorios híbridos.
 * 🌱 **Stack Principal:** RHEL/Debian, Ansible, Azure, Docker, KVM.
 * 📜 **Certificación Clave 2025:** Linux Foundation Certified Systems Administrator (LFCS).
 
@@ -74,9 +71,8 @@ Este perfil de GitHub es mi espacio para **Open Source, Laboratorios Públicos y
 
 Como parte de una estrategia DevOps organizada, distribuyo mi código en dos plataformas:
 
-1. 🦊 **[GitLab (dzamo)](https://gitlab.com/dzamo):**
+1. 🦊 **[GitLab (dzamo)](https://dzamo.github.io):**
     * Aloja mi infraestructura "Source of Truth".
-    * Código fuente del Portfolio Web (Astro/Starlight).
     * Laboratorios privados y documentación técnica detallada (SOPs).
 
 2. 🐱 **GitHub (Estás aquí):**
