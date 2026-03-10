@@ -10,7 +10,7 @@
 
   <!-- BOTONES DE ACCIÓN PRINCIPALES -->
   <a href="https://daniel-zamo.github.io">
-    <img src="https://img.shields.io/badge/🌐_VISITAR_PORTFOLIO-000000?style=for-the-badge&logo=docusaurus&logoColor=white" alt="Portfolio Web" height="35">
+    <img src="https://img.shields.io/badge/🌐_VISITAR_PORTFOLIO-000000?style=for-the-badge&logo=docusaurus&logoColor=green" alt="Portfolio Web" height="35">
   </a>
   <a href="https://linkedin.com/in/danielzamo">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil_Profesional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35">
