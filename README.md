@@ -71,13 +71,13 @@ Este perfil de GitHub es mi espacio para **Open Source, Laboratorios Públicos y
 
 Como parte de una estrategia DevOps organizada, distribuyo mi código en dos plataformas:
 
-1. 🦊 **[GitLab (dzamo)](https://dzamo.github.io):**
-    * Aloja mi infraestructura "Source of Truth".
-    * Laboratorios privados y documentación técnica detallada (SOPs).
+1. 🦊 **[GitLab (dzamo)](https://gitlab.com/dzamo):**
+    * Aloja varios repositorios que comparto, entre ellos el core de mi boveda PKM, basada en boveda de Obsidian.
 
 2. 🐱 **GitHub (Estás aquí):**
     * Repositorios públicos para colaboración comunitaria.
     * Snippets, scripts y despliegues de referencia (Ansible/Docker) para compartir.
+    * Laboratorios privados y documentación técnica detallada (SOPs).
 
 ---
 
